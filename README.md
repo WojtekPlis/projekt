@@ -1,14 +1,41 @@
-\# Mój projekt 🚀
+# 🚀 Projekt Git – Plisu
 
+## 📌 Opis
+To jest mój pierwszy projekt stworzony z użyciem Git oraz GitHub.  
+Zawiera podstawowe pliki oraz prostą stronę HTML.
 
+---
 
-\## Opis
+## 🌐 Strona projektu
+Projekt zawiera prostą stronę internetową opartą o HTML.
 
-To projekt testowy w git
+---
 
+## 🛠️ Technologie
+- Git
+- GitHub
+- HTML
+- Markdown
 
+---
 
-\## Autor
+## 📁 Zawartość repozytorium
+- `README.md` – opis projektu
+- `.gitignore` – pliki ignorowane przez Git
+- `index.html` – główna strona projektu
 
-Wojtek Plis
+---
 
+## 🌿 Branches
+- `main` – główna wersja projektu
+- `nowy-branch` – gałąź do pracy nad zmianami
+
+---
+
+## 👤 Autor
+Plisu
+
+---
+
+## 📎 Uwagi
+Projekt wykonany w ramach nauki Git i GitHub.
