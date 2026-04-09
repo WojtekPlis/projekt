@@ -30,6 +30,9 @@ Projekt zawiera prostą stronę internetową opartą o HTML.
 - `main` – główna wersja projektu
 - `nowy-branch` – gałąź do pracy nad zmianami
 
+## Update
+Drugi commit testowy
+
 ---
 
 ## 👤 Autor
